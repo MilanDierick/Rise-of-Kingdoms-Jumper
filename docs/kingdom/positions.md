@@ -6,7 +6,7 @@ any of these positions, please reach out to BOSSNASTi#8056 to discuss your role 
 ```
 Keep in mind that for all of these departments, each department (be it the department head or a department member)
 should write it's own mails (be it kingdom mails, alliance mails or DM messages), which should then be checked with 
-the mail room.
+the mail room (until the department is able to write quality communication indepentantly).
 ```
 
 ### War Department

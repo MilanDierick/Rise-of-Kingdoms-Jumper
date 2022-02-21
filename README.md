@@ -1,5 +1,8 @@
 # Index
 
-## Welcome Section
+### Welcome Section
 
-[Discord Introduction](DiscordIntroduction.md)
+[Discord Introduction](docs/welcome/discord.md)
+
+### Work-In-Progress
+[Code of Conduct](docs/tinkering/coc.md)

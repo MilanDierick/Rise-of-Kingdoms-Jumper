@@ -4,8 +4,6 @@ BOSS NASTi's | Multi-Game Community Code of Conduct
 Welcome!
 --------
 
-[BRIEF DESCRIPTION OF THE DISCORD SERVER AND ITS PURPOSE]
-
 The current administrators are:
 
 - BOSSNASTi#8056

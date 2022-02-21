@@ -13,10 +13,10 @@
 - [game-details](docs/rok/details.md)
 - announcements
 - reddit
-- alliance-html
+- [alliance-html](docs/rok/html.md)
+- xxxx-access
 - community-chat
 - questions
-- xxxx-access
 - community-voice
 
 ### Kingdom XXXX

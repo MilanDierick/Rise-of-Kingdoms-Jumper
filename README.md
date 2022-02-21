@@ -2,4 +2,4 @@
 
 ## Welcome Section
 
-[Discord Introduction](https://milandierick.github.io/Rise-of-Kingdoms-Jumper/DiscordIntroduction.md)
+[Discord Introduction](DiscordIntroduction.md)

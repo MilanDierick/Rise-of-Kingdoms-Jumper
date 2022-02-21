@@ -3,6 +3,12 @@ Below is a list of all available department positions if you are interested in h
 any of these positions, please reach out to BOSSNASTi#8056 to discuss your role in the kingdom. 
 ```
 
+```
+Keep in mind that for all of these departments, each department (be it the department head or a department member)
+should write it's own mails (be it kingdom mails, alliance mails or DM messages), which should then be checked with 
+the mail room.
+```
+
 ### War Department
 
 - Provide up-to-date and effective tactics to the family
@@ -31,7 +37,7 @@ any of these positions, please reach out to BOSSNASTi#8056 to discuss your role 
 - Write mails in cooperation with the mail room to help players maximise event rewards
 - Promote player activity
 - Promote inter-alliance relations
-- Organise kingdom-wise surveys
+- Organise kingdom-wide surveys
 
 ### Mail Room
 
@@ -77,13 +83,14 @@ any of these positions, please reach out to BOSSNASTi#8056 to discuss your role 
 
 ### Alliance leader
 
-- Should send regular mails to inform members, assisted by the mail room
+- Should send regular mails to inform members, possibly assisted by the mail room
 - Should be vocal both in-game and on Discord
 - Be able to create, update and delete markers in-game
 - Should be above average in terms of activity and in-game power compared to their alliance members
 - Should preferably have previous experiences leading an alliance and playing kingdom builders
 - Should focus on kingdom and alliance health, in this order
 - Should create and follow their own set of goals, and adhere to the kingdom goals
+- Should focus on kingdom goals, while maintaining alliance-specific goals, in this order 
 - Be able to work with other alliances to create a healthy kingdom
 - Be able to utilize the in-game calendar
 - Construct and manage a team of officers

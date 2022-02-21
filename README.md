@@ -10,7 +10,7 @@
 - get-access
 
 ### Rise of Kingdoms
-- game-details
+- [game-details](docs/rok/details.md)
 - announcements
 - reddit
 - alliance-html
